@@ -20,7 +20,7 @@ def read_create_train_test(filename):
     return newslines, labels, newslines_train, newslines_test, y_train, y_test, df
 
 
-def vectorize_training_data(df, newslines, newslines_train, newslines_test):
+def vectorize_data(df, newslines, newslines_train, newslines_test):
     punctuations = string.punctuation
     parser = English()
     stopwords = list(STOP_WORDS)
@@ -37,25 +37,28 @@ def vectorize_training_data(df, newslines, newslines_train, newslines_test):
     return vectorized.transform(newslines_train), vectorized.transform(newslines_test), vectorized
 
 
-def real_data(filename):
+def create_sentiment(filename, vectorized, classifier):
     df = pd.read_csv(filename, encoding="cp1252")
+    X_new = vectorized.transform(df['headline'])
+    sentiment = classifier.predict(X_new.A)
+    df.insert(df.shape[1], "Sentiment", sentiment)
+    df.to_csv(filename)
 
 
 def run():
     warnings.filterwarnings('ignore')
     tickers = ["AMD", "MSFT", "LMND"]
-    create_csv_name = "news_headlines.csv"
-    scrapping_finviz.run(tickers, create_csv_name)
+    news_headline_csvfile = "news_headlines.csv"
+    scrapping_finviz.run(tickers, news_headline_csvfile)
     training_filename = "training_data.csv"
     newslines, labels, newslines_train, newslines_test, y_train, y_test, df = \
         read_create_train_test(training_filename)
-    X_train, X_test, vectorized = vectorize_training_data(df, newslines, newslines_train, newslines_test)
-    news_headlines = ['Apple releases new Macbook aimed towards older generations',
-                      'Apple Everything Store Is Now Everyones Antitrust Target']
-    X_new = vectorized.transform(news_headlines)
-    gaussianNB_clf = GaussianNB()
-    gaussianNB_clf.fit(X_train.A, y_train.values)
-    print(gaussianNB_clf.predict(X_new.A))
+    X_train, X_test, vectorized = vectorize_data(df, newslines, newslines_train, newslines_test)
+    logistic_reggression_clf = LogisticRegression()
+    logistic_reggression_clf.fit(X_train.A, y_train.values)
+    # gaussianNB_clf = GaussianNB()
+    # gaussianNB_clf.fit(X_train.A, y_train.values)
+    create_sentiment(news_headline_csvfile, vectorized, logistic_reggression_clf)
 
 
 run()
