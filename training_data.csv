@@ -2,24 +2,30 @@ Company,date,time,headline,Sentiment
 AAPL,Nov-11-20,08:00PM,"Bye, Tariff Man. Bidens India Play Must Be Apps",1
 AAPL,Nov-11-20,08:00PM,"Dow Jones Stocks To Buy And Watch In November 2020: Apple, Microsoft Offer New Buy Points",1
 AAPL,Nov-11-20,08:00PM,Stock Market Today: Big Tech Bounces Back,1
-AAPL,Nov-11-20,08:00PM,Nasdaq Soars As Big Tech Bites Back; Dow Jones Lags As Boeing Dives,1
+AAPL,Nov-11-19,08:00PM,Nasdaq Soars As Big Tech Bites Back,1
+AAPL,Nov-11-20,08:00PM,Dow Jones Lags As Boeing Dives,0
 AAPL,Nov-11-20,08:00PM,Why Roku Stock Is Soaring Today,1
 AAPL,Nov-11-20,08:00PM,"Apple is taking control, and a risky bet, with its M1 chip",1
 AAPL,Nov-11-20,08:00PM,Stocks rise as tech shares recover some losses,1
 AAPL,Nov-11-20,08:00PM,Apple Succeeds In 'Getting Us To Talk About The Mac After Years Of Obscurity',1
 AAPL,Nov-11-20,08:00PM,Having Apple use their own microprocessor and not depending on Intel or Samsung is a big deal: Fmr. Apple CEO,1
 AAPL,Nov-11-20,08:00PM,Apples New M1-Powered Mac Laptops Win Raves From Wall Street,1
-AAPL,Nov-11-20,08:00PM,Dow Jones Extends Win Streak As Techs Rebound; Top Growth Stock Breaks Out,1
-AAPL,Nov-11-20,08:00PM,"Dow Jones Rallies 150 Points, As Tech Stocks Snap Back; Apple, Tesla Rebound, But Datadog Plunges On Earnings",1
+AAPL,Nov-11-20,08:00PM,Dow Jones Extends Win Streak As Techs Rebound,1
+AAPL,Nov-11-20,08:00PM,Top Growth Stock Breaks Out,0
+AAPL,Nov-11-20,08:00PM,"Dow Jones Rallies 150 Points, As Tech Stocks Snap Back",1
+AAPL,Nov-11-20,08:00PM,"Apple, Tesla Rebound",0
+AAPL,Nov-11-20,08:00PM,But Datadog Plunges On Earnings,1
 AAPL,Nov-11-20,08:00PM,Alibaba Singles Day Ends Strongly as Beijing Storm Approaches,1
 AAPL,Nov-11-20,08:00PM,Apple unveils new M1 chip for Mac computers,1
-AAPL,Nov-11-20,08:00PM,"This 5G Stock Has Doubled, but It Can Keep Crushing the Market",1
+AAPL,Nov-11-20,08:00PM,This 5G Stock Has Doubled,1
+AAPL,Nov-11-20,08:00PM,but It Can Keep Crushing the Market,1
 AAPL,Nov-11-20,08:00PM,Roku rolls out AirPlay 2 and HomeKit support to 4K devices,1
 AAPL,Nov-11-20,08:00PM,Apple (AAPL) Powers New Mac Products With its First M1 Chip,1
 AAPL,Nov-11-20,08:00PM,Apple Ditching Intel With Its New Macs Could Be the Start of Something Big,1
 AAPL,Nov-11-20,08:00PM,"As Expected, Apple Launches New Macs at Latest Unveiling",1
 AAPL,Nov-11-20,08:00PM,"Roku Adds Apple AirPlay to 4K Devices, Giving Users a New HBO Max Streaming Workaround",1
-AAPL,Nov-11-20,08:00PM,"Dow Jones Futures Rise 200 Points, While Tech Futures Jump As Stock Market Rotation Continues; 6 Tech Giants Sell Off",1
+AAPL,Nov-11-20,08:00PM,"Dow Jones Futures Rise 200 Points, While Tech Futures Jump As Stock Market Rotation Continues",1
+AAPL,Nov-11-20,08:00PM,6 Tech Giants Sell Off,0
 AAPL,Nov-11-20,08:00PM,Amazons Everything Store Is Now Everyones Antitrust Target,0
 AAPL,Nov-11-20,08:00PM,Apple's Theft Claim Against 'Fortnite' Maker Epic Gets Thrown Out By Court,0
 AAPL,Nov-11-20,08:00PM,Federal judge dismisses some claims by Apple in fight against Epic Games,0
@@ -44,7 +50,9 @@ AAPL,Nov-10-20,08:33PM,Apple expected to reveal first Macs with custom ARM-based
 AAPL,Nov-10-20,08:33PM,Live from Apple's 2020 Mac event featuring the first-ever Apple Silicon Macs,1
 AAPL,Nov-10-20,08:33PM,Here are Wall Streets 20 favorite value stocks,1
 AAPL,Nov-10-20,08:33PM,Dow Jones Leads Mixed Market As Covid Vaccine Hopes Slam Tech Stocks Again,0
-AAPL,Nov-10-20,08:33PM,"Dow Jones Jumps 275 Points, But Tech Sell-Off Continues; Beyond Meat Plunges 24% On Earnings",0
+AAPL,Nov-10-20,08:33PM,Dow Jones Jumps 275 Points,1
+AAPL,Nov-10-20,08:33PM,But Tech Sell-Off Continues,0
+AAPL,Nov-10-20,08:33PM,Beyond Meat Plunges 24% On Earnings,1
 AAPL,Nov-10-20,08:33PM,"Despite the rise in Covid-19 cases, the economy continues to recover: Strategist",1
 AAPL,Nov-10-20,08:33PM,Amazon Accused of Merchant Data Abuse in New EU Antitrust Charges,0
 AAPL,Nov-10-20,08:33PM,"Amazon Hit by EU Complaint, Faces New Probe Over Sales",0
@@ -65,13 +73,15 @@ AAPL,Nov-09-20,05:21PM,Apple Puts iPhone Maker Pegatron On Probation Over Labor 
 TSLA,Nov-11-20,08:00PM,Rivian is making its hands-free driver assistance system standard in 'every vehicle' it builds,1
 TSLA,Nov-11-20,08:00PM,Tesla Gigafactory Shanghai Production Rate Points To Sharp Annual Increase,1
 TSLA,Nov-11-20,08:00PM,Tesla No. 1 in Survey of Most Attractive Companies for Engineering Students,1
-TSLA,Nov-11-20,08:00PM,"Electric Car Sales More Than Double In World's Biggest EV Market, But Tesla Lags",0
+TSLA,Nov-11-20,08:00PM,Electric Car Sales More Than Double In World's Biggest EV Market,1
+TSLA,Nov-11-20,08:00PM,But Tesla Lags,0
 TSLA,Nov-11-20,08:00PM,"Mercedes-Benz Berlin plant head to join Tesla, union says",1
 TSLA,Nov-11-20,08:00PM,"Dow Jones Rallies 150 Points, As Tech Stocks Snap Back; Apple, Tesla Rebound, But Datadog Plunges On Earnings",1
 TSLA,Nov-11-20,08:00PM,"BMW's New Electric iX SUV Will Challenge Tesla, But Not Until 2022",1
 TSLA,Nov-11-20,08:00PM,"BMW unveils electric SUV to challenge Tesla, plans U.S. launch in early 2022",1
 TSLA,Nov-11-20,08:00PM,"BMW Takes a Step Out of Tesla, VWs Shadow With Electric SUV",0
-TSLA,Nov-11-20,08:00PM,"Dow Jones Futures Rise 200 Points, While Tech Futures Jump As Stock Market Rotation Continues; 6 Tech Giants Sell Off",1
+TSLA,Nov-11-20,08:00PM,"Dow Jones Futures Rise 200 Points, While Tech Futures Jump As Stock Market Rotation Continues",1
+TSLA,Nov-11-20,08:00PM,6 Tech Giants Sell Off,0
 TSLA,Nov-10-20,04:59PM,Tesla 2021 Model 3 Registration Shows Larger 82kWh Battery,1
 TSLA,Nov-10-20,04:59PM,Nikola Suffers Credibility Doubts On Wall Street As EV Deal Hangs In Balance,0
 TSLA,Nov-10-20,04:59PM,Lyft beats earnings estimates; co-founder says it's one of the best COVID-19 recovery stocks,1
@@ -80,7 +90,9 @@ TSLA,Nov-10-20,04:59PM,Tesla Has Formed an Equilateral Triangle Formation - Driv
 TSLA,Nov-10-20,04:59PM,Why Tesla Stock Just Tanked Again,0
 TSLA,Nov-10-20,04:59PM,There Is No China Growth Story For Tesla; Company Headed To Zero: Shortseller,0
 TSLA,Nov-10-20,04:59PM,"Nikola CEO: We are prepared to 'go to market alone if we have to,' without General Motors",1
-TSLA,Nov-10-20,04:59PM,"Dow Jones Jumps 275 Points, But Tech Sell-Off Continues; Beyond Meat Plunges 24% On Earnings",0
+TSLA,Nov-10-20,04:59PM,Dow Jones Jumps 275 Points,1
+TSLA,Nov-10-20,04:59PM,But Tech Sell-Off Continues,0
+TSLA,Nov-10-20,04:59PM,Beyond Meat Plunges 24% On Earnings,1
 TSLA,Nov-10-20,04:59PM,Tesla Expands Warranty to Cover Main Computer Failures in Older Vehicles,1
 TSLA,Nov-10-20,04:59PM,"Tesla To Refund Older Model S, X Owners For MCU Failures: CNBC",0
 TSLA,Nov-10-20,04:59PM,"Ford Looks To Clear Air Around Mustang Mach-E EPA Range, Says Fully Expects To Meet Target",1
@@ -108,7 +120,9 @@ TSLA,Nov-05-20,10:25PM,"GM To Speed Up EV Rollout As Earnings Crush, Nikola Talk
 TSLA,Nov-05-20,10:25PM,"Why a Winning Fund Likes Tesla, Amazon, and Mastercard Stock",1
 TSLA,Nov-05-20,10:25PM,Alphabet and 11 Other Stocks That Are Vulnerable to a Short Squeeze,0
 TSLA,Nov-05-20,10:25PM,Tesla Submits Application For Model Y Manufacturing In China: Report,1
-TSLA,Nov-05-20,10:25PM,"Dow Jones Surges 600 Points, As Apple, Tesla Jump; Alibaba Falls, While GM, Qualcomm Soars On Earnings",1
+TSLA,Nov-05-20,10:25PM,"Dow Jones Surges 600 Points, As Apple, Tesla Jump",1
+TSLA,Nov-05-20,10:25PM,Alibaba Falls,0
+TSLA,Nov-05-20,10:25PM,"While GM, Qualcomm Soars On Earnings",1
 TSLA,Nov-05-20,10:25PM,The $5 Trillion Transportation Industry Is Going Green,1
 TSLA,Nov-05-20,10:25PM,VW CEO Says Existential Electric Race Awaits After Pandemic,1
 TSLA,Nov-05-20,10:25PM,"Dow Jones Futures Jump As Strong Post-Election Market Rally Rolls On; Qualcomm, Alibaba, GM Lead Earnings Movers",1
@@ -118,7 +132,8 @@ TSLA,Nov-04-20,07:01PM,The Biggest Ever Transfer Of Wealth Is Happening Right No
 TSLA,Nov-04-20,07:01PM,Tesla Could Create Up To 15K Jobs With Gigafactory Texas: Report,1
 TSLA,Nov-04-20,07:01PM,Electric Car Stocks Split As Election Results Hint At Divide,1
 TSLA,Nov-04-20,07:01PM,"Buffett-Backed BYD Joins Nio, Xpeng In China Electric Car Sales Boom",1
-TSLA,Nov-04-20,07:01PM,"Dow Jones Surges 600 Points, While Tech Stocks Soar; Trump Claims Big Win, But Election Results Unclear",1
+TSLA,Nov-04-20,07:01PM,"Dow Jones Surges 600 Points, While Tech Stocks Soar",1
+TSLA,Nov-04-20,07:01PM,"Trump Claims Big Win, But Election Results Unclear",0
 TSLA,Nov-03-20,09:35PM,"Tesla Was A Month Away From Bankruptcy Ahead Of Model 3 Rollout, Says Musk",0
 TSLA,Nov-03-20,09:35PM,"Stock Markets Elect to Soar Again as Tesla, Alibaba Head in Different Directions",1
 TSLA,Nov-03-20,09:35PM,S&P 500 Performs Best On Days Donald Trump Tweets 30 Or More Times: Study,1
@@ -129,7 +144,8 @@ AMZN,Nov-11-20,09:28PM,"Down $290 Billion, China Tech Investors Wargame Worst-Ca
 AMZN,Nov-11-20,09:28PM,"Bye, Tariff Man. Bidens India Play Must Be Apps",1
 AMZN,Nov-11-20,09:28PM,Stock Market Today: Big Tech Bounces Back,1
 AMZN,Nov-11-20,09:28PM,Alibaba's Singles Day sales top $74 billion,1
-AMZN,Nov-11-20,09:28PM,Nasdaq Soars As Big Tech Bites Back; Dow Jones Lags As Boeing Dives,1
+AMZN,Nov-11-20,09:28PM,Nasdaq Soars As Big Tech Bites Back,1
+AMZN,Nov-11-20,09:28PM,Dow Jones Lags As Boeing Dives,0
 AMZN,Nov-11-20,09:28PM,AWS Announces AWS Glue DataBrew,1
 AMZN,Nov-11-20,09:28PM,How the Nasdaq Dominated the Stock Market Wednesday,1
 AMZN,Nov-11-20,09:28PM,Alibaba Moves Into Japan With Third-party Logistics Offering,1
@@ -200,23 +216,19 @@ EPC,Nov-05-20,12:30PM,Edgewell Personal Care's(NYSE:EPC) Share Price Is Down 67%
 EPC,Oct-12-20,08:31PM,Hedge Funds Are Selling Edgewell Personal Care Company (EPC),0
 EPC,Oct-06-20,09:09AM,Why Energizer Holdings Stock Dropped 15% in September,0
 EPC,Sep-17-20,10:00AM,Bear of the Day: Edgewell Personal Care (EPC),0
-EPC,Sep-10-20,09:50AM,"Energizer Raises Sales View on Higher Demand, Repays Debt",0
+EPC,Sep-10-20,09:50AM,"Energizer Raises Sales View on Higher Demand, Repays Debt",1
 EPC,Sep-03-20,08:30AM,Edgewell Personal Care Announces Closing of Acquisition of CREMO Company,0
 EPC,Sep-02-20,10:27AM,"These 2 Stocks Could Double From Here, But for Different Reasons",1
-EPC,Sep-02-20,10:27AM,Edgewell Personal Care Appoints Swan Sit to Board of Directors,0
 EPC,Aug-05-20,08:25AM,Energizer Holdings (ENR) Q3 Earnings Miss Estimates,0
 EPC,Aug-04-20,04:00PM,Why Edgewell Personal Care Is Falling Today,0
-EPC,Aug-04-20,04:00PM,Edgewell Personal Care Announces Third Quarter Fiscal 2020 Results,0
 EPC,Aug-04-20,04:00PM,Edgewell Personal Care Announces Plan to Acquire CREMO Company,0
 EPC,Jul-20-20,12:00PM,Edgewell Personal Care (EPC) Is Up 1.65% in One Week: What You Should Know,1
-EPC,Jul-18-20,07:18PM,Did Hedge Funds Make The Right Call On Edgewell Personal Care Company (EPC) ?,1
 EPC,Jul-14-20,11:50AM,Is Edgewell Personal Care (EPC) a Great Value Stock Right Now?,0
-EPC,Jul-14-20,11:50AM,"Edgewell Personal Care Company To Webcast A Discussion Of Third Quarter Fiscal Year 2020 Results On August 4, 2020",1
 EPC,Jun-06-20,11:31AM,Why Is Energizer (ENR) Up 21.8% Since Last Earnings Report?,1
 EPC,May-21-20,01:10PM,"We moved quickly on creating work from home, social distancing standards: Edgewell CEO",1
 EPC,May-20-20,12:00PM,Edgewell Personal Care Appoints Eric O'Toole as President North America,1
 EPC,May-19-20,03:20PM,"Coronavirus update: U.S. death toll tops 91,000; Trump slams WHO, says hes taking hydroxychloroquine to stave off COVID-19",1
-EPC,May-19-20,03:20PM,"Schick® Xtreme® Launches ""Shave The Day"" Mobile Game That Helps You Raise Money For The St. Baldrick's Foundation",1
+EPC,May-19-20,03:20PM,"Schick? Xtreme? Launches ""Shave The Day"" Mobile Game That Helps You Raise Money For The St. Baldrick's Foundation",1
 EPC,May-19-20,03:20PM,Edgewell Personal Care to issue $600 million in unsecured notes that mature in 2028,0
 EPC,May-14-20,08:00AM,Edgewell Personal Care Announces Participation in Upcoming Investor Conferences,1
 EPC,May-08-20,10:31AM,Energizer Holdings' (ENR) Q2 Earnings & Sales Beat Estimates,1
@@ -224,44 +236,37 @@ EPC,May-07-20,06:00PM,Edgewell Personal Care Co (EPC) Q2 2020 Earnings Call Tran
 EPC,May-07-20,06:00PM,Edgewell Personal Care (EPC) Surpasses Q2 Earnings and Revenue Estimates,1
 EPC,May-07-20,06:00PM,Energizer Holdings (ENR) Beats Q2 Earnings Estimates,1
 EPC,Apr-30-20,12:33PM,Energizer Holdings (ENR) Reports Next Week: Wall Street Expects Earnings Growth,1
-EPC,Apr-30-20,12:33PM,Analysts Estimate Edgewell Personal Care (EPC) to Report a Decline in Earnings: What to Look Out for,1
+EPC,Apr-30-20,12:33PM,Analysts Estimate Edgewell Personal Care (EPC) to Report a Decline in Earnings: What to Look Out for,0
 EPC,Apr-17-20,01:54PM,Edgewell Personal Care Co. -- Moody's announces completion of a periodic review of ratings of Edgewell Personal Care Co.,1
-EPC,Apr-16-20,04:30PM,"Edgewell Personal Care Company To Webcast A Discussion Of Second Quarter Fiscal Year 2020 Results On May 7, 2020",0
 EPC,Apr-11-20,10:48AM,Some Edgewell Personal Care (NYSE:EPC) Shareholders Have Taken A Painful 80% Share Price Drop,0
-EPC,Apr-07-20,01:50PM,"Pay cuts, big borrowing: St. Louis public companies move to address coronavirus 'uncertainty'",1
+EPC,Apr-07-20,01:50PM,"Pay cuts, big borrowing: St. Louis public companies move to address coronavirus 'uncertainty'",0
 EPC,Apr-02-20,09:00AM,Edgewell Personal Care Announces New $425 Million Revolving Credit Facility,1
 EPC,Mar-25-20,08:07AM,Moving Average Crossover Alert: Edgewell Personal Care Company,0
 EPC,Mar-06-20,10:30AM,Energizer (ENR) Down 10% Since Last Earnings Report: Can It Rebound?,0
 EPC,Feb-18-20,12:58PM,Edgewell Personal Care Co. -- Moody's upgrades Edgewell's CFR to Ba3 following cancelled Harry's acquisition; outlook stable,1
-EPC,Feb-11-20,05:01AM,"Why Popeyes Sales Jumped 34%, and Two More Numbers to Know",0
+EPC,Feb-11-20,05:01AM,"Why Popeyes Sales Jumped 34%, and Two More Numbers to Know",1
 EPC,Feb-10-20,02:46PM,Derailed Harrys Deal Is a Warning Shot to Startup Buyers,0
 EPC,Feb-10-20,02:46PM,"P&G competitor backs off $1.3B acquisition, faces lawsuit",0
-EPC,Feb-10-20,02:46PM,"Harry's Fixes Shaving, Breaks Exit Strategy",1
 EPC,Feb-10-20,02:46PM,Schick parent calls off $1.3B purchase of razor rival Harry's Inc.,0
 EPC,Feb-10-20,02:46PM,Edgewell Soars After Dropping Bid for Harry's on FTC Opposition,1
-EPC,Feb-10-20,02:46PM,Harrys threatens legal action after Edgewell scraps $1.4bn deal,1
+EPC,Feb-10-20,02:46PM,Harrys threatens legal action after Edgewell scraps $1.4bn deal,0
 EPC,Feb-10-20,02:46PM,Edgewell Personal Care to Pursue Standalone Value Creation Strategy,1
-EPC,Feb-10-20,02:46PM,Edgewell Personal Care Announces First Quarter Fiscal 2020 Results,1
-EPC,Feb-05-20,02:52PM,P&G competitor faces government opposition to $1.3B acquisition,0
+EPC,Feb-05-20,02:52PM,P&G competitor faces government opposition to $1.3B acquisition,1
 EPC,Feb-03-20,12:30PM,Earnings Preview: Edgewell Personal Care (EPC) Q1 Earnings Expected to Decline,0
 EPC,Feb-03-20,12:30PM,Schick-parent Edgewell's stock bounces off 11-year low after FTC files to block Harry's buyout,0
-EPC,Feb-03-20,12:30PM,"Edgewell Personal Care and Harry's, Inc. Comment on FTC Decision",1
 EPC,Feb-03-20,12:30PM,US regulators look to block Edgewells $1.4bn deal for Harrys,0
-EPC,Jan-20-20,02:23PM,"Edgewell Personal Care Company To Webcast A Discussion Of First Quarter Fiscal Year 2020 Results On February 10, 2020",1
-EPC,Dec-19-19,08:00AM,Edgewell Personal Care Completes the Sale of its Infant and Pet Care Business to Angelcare,0
 EPC,Dec-10-19,11:13AM,Hedge Funds Are Dumping Edgewell Personal Care Company (EPC),0
-EPC,Nov-30-19,09:01AM,Edited Transcript of EPC earnings conference call or presentation 12-Nov-19 1:00pm GMT,1
 EPC,Nov-22-19,01:39PM,Edgewell Personal Care Announces Participation in Upcoming Investor Conferences,0
 EPC,Nov-19-19,08:00AM,Bulldog Skincare For Men Becomes First-Ever Cruelty Free International Leaping Bunny Approved Brand To Sell In China,1
 EPC,Nov-12-19,07:30AM,Edgewell Personal Care (EPC) Q4 Earnings Beat Estimates,1
 EPC,Oct-26-19,12:45PM,Were Hedge Funds Right About Flocking Into Edgewell Personal Care Company (EPC)?,1
-ADS,Nov-02-20,10:04AM,What Pullback? JPMorgan Says These 2 Stocks Could Surge Over 60%,0
+ADS,Nov-02-20,10:04AM,What Pullback? ,0
+ADS,Nov-02-20,10:04AM,JPMorgan Says These 2 Stocks Could Surge Over 60%,1
 ADS,Oct-29-20,05:49PM,Alliance Data Systems Shares Surge on Impressive Results,1
 ADS,Oct-29-20,05:49PM,"Alliance Data (ADS) Q3 Earnings, Revenues Beat Estimates",1
 ADS,Oct-29-20,05:49PM,Alliance Data Systems (ADS) Q3 Earnings and Revenues Surpass Estimates,1
 ADS,Oct-29-20,05:49PM,Alliance Data Provides Card Services Performance Update For September 2020,1
-ADS,Oct-29-20,05:49PM,Alliance Data Reports Third Quarter Results,1
-ADS,Oct-29-20,05:49PM,Alliance Data Signs Definitive Agreement to Acquire Bread®,1
+ADS,Oct-29-20,05:49PM,Alliance Data Signs Definitive Agreement to Acquire Bread?,1
 ADS,Oct-22-20,12:33PM,Earnings Preview: Alliance Data Systems (ADS) Q3 Earnings Expected to Decline,0
 ADS,Oct-22-20,12:33PM,Alliance Data Selects Fiserv for Credit Processing Services,1
 ADS,Oct-13-20,03:47PM,Why Morgan Stanley's Bullish On Alliance Data Systems,1
@@ -276,19 +281,17 @@ ADS,Aug-22-20,11:30AM,Why Is Alliance Data (ADS) Down 3.5% Since Last Earnings R
 ADS,Aug-17-20,07:30AM,Alliance Data Provides Card Services Performance Update For July 2020,1
 ADS,Aug-08-20,08:03AM,Income Investors Should Know That Alliance Data Systems Corporation (NYSE:ADS) Goes Ex-Dividend Soon,1
 ADS,Jul-24-20,06:59AM,Be Wary Of Alliance Data Systems (NYSE:ADS) And Its Returns On Capital,0
-ADS,Jul-23-20,05:00PM,"Alliance Data (ADS) Q2 Earnings Beat Estimates, Decline Y/Y",1
+ADS,Jul-23-20,05:00PM,Alliance Data (ADS) Q2 Earnings Beat Estimates,1
+ADS,Jul-23-20,05:00PM,Decline Y/Y,0
 ADS,Jul-23-20,05:00PM,Alliance Data Systems (ADS) Surpasses Q2 Earnings Estimates,1
 ADS,Jul-23-20,05:00PM,Alliance Data Provides Card Services Performance Update For June 2020,1
-ADS,Jul-23-20,05:00PM,Alliance Data Reports Second Quarter Results,1
 ADS,Jul-16-20,12:32PM,Earnings Preview: Alliance Data Systems (ADS) Q2 Earnings Expected to Decline,0
 ADS,Jul-13-20,10:30AM,Did Hedge Funds Make The Right Call On Alliance Data Systems Corporation (ADS) ?,1
 ADS,Jul-08-20,12:49PM,Brooks Brothers files for bankruptcy as its take on office gear falls out of step with more casual trends,0
-ADS,Jul-07-20,01:34PM,5 Financial Companies Expanding Book Value,0
-ADS,Jun-29-20,07:30AM,"Alliance Data Schedules Second-Quarter 2020 Earnings Conference Call For July 23, 2020",0
+ADS,Jul-07-20,01:34PM,5 Financial Companies Expanding Book Value,1
 ADS,Jun-24-20,11:40AM,ADS or FLT: Which Is the Better Value Stock Right Now?,1
 ADS,Jun-15-20,07:30AM,Alliance Data Provides Card Services Performance Update For May 2020,1
 ADS,Jun-12-20,06:18PM,Hedge Funds Dumped Alliance Data Systems Corporation (ADS) Big Time,0
-ADS,Jun-11-20,12:34PM,Thursday Morning Market Highlights,1
 ADS,Jun-10-20,07:24PM,"Alliance Data Stockholders Elect John C. Gerspach, Jr. And Rajesh Natarajan To Board Of Directors",0
 ADS,Jun-08-20,04:19PM,Investors overreaction creates short-term opportunities in stocks,1
 ADS,May-27-20,01:07PM,Foot Locker focuses on shoes but shoppers want fitness apparel during coronavirus lockdowns,0
@@ -299,29 +302,34 @@ ADS,May-13-20,09:06AM,Alliance Data Systems (ADS) Problems Dont Stop at Coronavi
 ADS,Apr-28-20,05:24PM,Wall Street Turns Red on Tuesday,0
 ADS,Apr-23-20,11:07AM,"Alliance Data (ADS) Misses on Q1 Earnings, Suspends '20 View",0
 ADS,Apr-23-20,11:07AM,Alliance Data Systems (ADS) Lags Q1 Earnings Estimates,0
-ADS,Apr-23-20,11:07AM,Alliance Data Provides Card Services Performance Update For March 2020,0
+ADS,Apr-23-20,11:07AM,Alliance Data Provides Card Services Performance Update For March 2020,1
 ADS,Apr-23-20,11:07AM,Alliance Data Declares Dividend on Common Stock,0
 ADS,Apr-16-20,12:31PM,Alliance Data Systems (ADS) Reports Next Week: Wall Street Expects Earnings Growth,1
 ADS,Apr-04-20,03:35PM,Invest in Exclusivity for Unfair Advantages,1
 ADS,Apr-02-20,07:22PM,S&P 500 Stocks Hanging by a Thread as Macy's Is Booted Off,0
-ADS,Apr-01-20,07:30AM,"Alliance Data Schedules First-Quarter 2020 Earnings Conference Call For April 23, 2020",1
 ADS,Mar-26-20,03:48PM,Hedge Funds Have Never Been This Bullish On Alliance Data Systems Corporation (ADS),1
 ADS,Mar-26-20,03:48PM,"Alliance Data moving 600 Westerville jobs to Easton, projects stable finances amid pandemic",1
 ADS,Mar-22-20,08:05AM,"Trade Alert: The Non-Executive Chairman Of Alliance Data Systems Corporation (NYSE:ADS), Robert Minicucci, Has Just Spent US$290k Buying Shares",1
 ADS,Mar-19-20,05:25PM,Alliance Data Provides Update On Current Impact of COVID-19,1
 ADS,Mar-17-20,11:50AM,Gap and Adidas stores still operating as a slew of other consumer businesses close due to coronavirus,1
-ADS,Mar-17-20,11:50AM,These 64 stocks in the S&P 500 fell at least 20% on Monday as the coronavirus panic intensified,1
+ADS,Mar-17-20,11:50AM,These 64 stocks in the S&P 500 fell at least 20% on Monday as the coronavirus panic intensified,0
 AMD,Nov-11-20,03:56PM,"Apple is taking control, and a risky bet, with its M1 chip",1
-AMD,Nov-11-20,03:56PM,"Dow Jones Rallies 150 Points, As Tech Stocks Snap Back; Apple, Tesla Rebound, But Datadog Plunges On Earnings",0
-AMD,Nov-11-20,03:56PM,"Model N (MODN) Q4 Earnings Beat, Stock Down on Bleak View",0
+AMD,Nov-11-20,03:56PM,"Dow Jones Rallies 150 Points, As Tech Stocks Snap Back; Apple, Tesla Rebound",1
+AMD,Nov-11-20,03:56PM,But Datadog Plunges On Earnings,0
+AMD,Nov-11-20,03:56PM,Model N (MODN) Q4 Earnings Beat,1
+AMD,Nov-11-20,03:56PM,Stock Down on Bleak View,0
 AMD,Nov-11-20,03:56PM,2 Growth Stocks I'd Buy Right Now,1
 AMD,Nov-11-20,03:56PM,IBM and AMD Begin Cooperation on Cybersecurity and AI,1
-AMD,Nov-11-20,03:56PM,"Dow Jones Futures Rise 200 Points, While Tech Futures Jump As Stock Market Rotation Continues; 6 Tech Giants Sell Off",1
+AMD,Nov-11-20,03:56PM,Dow Jones Futures Rise 200 Points,1
+AMD,Nov-11-20,03:56PM,While Tech Futures Jump As Stock Market Rotation Continues,1
+AMD,Nov-11-20,03:56PM,6 Tech Giants Sell Off,0
 AMD,Nov-11-20,03:56PM,"IBM and AMD will work together on security, artificial intelligence",1
 AMD,Nov-11-20,03:56PM,IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence,1
 AMD,Nov-10-20,02:47PM,"Apple announces its first-ever M1 processor, coming to MacBooks and Macs",1
 AMD,Nov-10-20,02:47PM,"Why Shares of Zoom, Pinterest, and Advanced Micro Devices Fell Today",0
-AMD,Nov-10-20,02:47PM,"Dow Jones Jumps 275 Points, But Tech Sell-Off Continues; Beyond Meat Plunges 24% On Earnings",0
+AMD,Nov-10-20,02:47PM,Dow Jones Jumps 275 Points,1
+AMD,Nov-10-20,02:47PM,But Tech Sell-Off Continues,0
+AMD,Nov-10-20,02:47PM,Beyond Meat Plunges 24% On Earnings,0
 AMD,Nov-10-20,02:47PM,AMD Unveils AMD Ryzen Embedded V2000 Processors with Enhanced Performance and Power Efficiency,1
 AMD,Nov-09-20,04:28PM,Marvell Stock Shows Rising Price Performance With Jump To 93 RS Rating,1
 AMD,Nov-09-20,04:28PM,"Top Stock Reports for NVIDIA, Netflix & Starbucks",1
@@ -339,10 +347,14 @@ AMD,Nov-05-20,10:41AM,Intel (INTC) Spruces Up AI Capabilities to Challenge AMD &
 AMD,Nov-05-20,10:41AM,Microsoft Xbox Series X Review: Tons of power and potential at a price,1
 AMD,Nov-04-20,05:26PM,Why AMD Stock Popped Today,1
 AMD,Nov-04-20,05:26PM,"Nasdaq, S&P Have Best Day After Election Performance on Record",1
-AMD,Nov-04-20,05:26PM,"Dow Jones Surges 600 Points, While Tech Stocks Soar; Trump Claims Big Win, But Election Results Unclear",1
-AMD,Nov-04-20,05:26PM,"Dow Jones Today, Stocks Soar; Biden Vs. Trump Down To The Wire; AMD Gets Goldman Upgrade",1
+AMD,Nov-04-20,05:26PM,Dow Jones Surges 600 Points While Tech Stocks Soar,1
+AMD,Nov-04-20,05:26PM,"Trump Claims Big Win, But Election Results Unclear",0
+AMD,Nov-04-20,05:26PM,"Dow Jones Today, Stocks Soar",1
+AMD,Nov-04-20,05:26PM,Biden Vs. Trump Down To The Wire,0
+AMD,Nov-04-20,05:26PM,AMD Gets Goldman Upgrade,1
 AMD,Nov-04-20,05:26PM,AMD Higher as Goldman Upgrades to Buy on Valuation,1
-AMD,Nov-02-20,01:59PM,"Dow Jones Surges as Intel Stock Upgraded, Apple Warns About App Store Fees",1
+AMD,Nov-02-20,01:59PM,Dow Jones Surges as Intel Stock Upgraded,1
+AMD,Nov-02-20,01:59PM,Apple Warns About App Store Fees,0
 AMD,Nov-02-20,01:59PM,AMD May Finally Dethrone NVIDIA,1
 AMD,Oct-30-20,07:28PM,"After Taking Intel Out, Is AMD About to Dethrone Nvidia? Analyst Weighs In",1
 AMD,Oct-30-20,07:28PM,"Stock Market Rally Dives On Coronavirus Fears, Apple, Microsoft, Facebook, Amazon Earnings: Weekly Review",0
@@ -354,7 +366,8 @@ AMD,Oct-28-20,10:13PM,"AMD, Tesla, JD.com Struggle With Early Buy Points, But Th
 AMD,Oct-28-20,10:13PM,Microsoft beats expectations on cloud strength,1
 AMD,Oct-28-20,10:13PM,Advanced Micro Devices (AMD) Shareholders Head for Exits,0
 AMD,Oct-27-20,09:03PM,AMDs $35 Billion Deal Pushes 2020 Toward a Record for Chip M&A,1
-AMD,Oct-27-20,09:03PM,"Dow Jones Futures Slide After Apple, Tesla Lead Tech Rally; Microsoft Earnings Smash Estimates, While First Solar Surges",0
+AMD,Oct-27-20,09:03PM,"Dow Jones Futures Slide After Apple, Tesla Lead Tech Rally",1
+AMD,Oct-27-20,09:03PM,"Microsoft Earnings Smash Estimates, While First Solar Surges",1
 AMD,Oct-27-20,09:03PM,Why Xilinx Stock Jumped Today,1
 AMD,Oct-27-20,09:03PM,Jim Cramer: Bank With Advanced Micro's Lisa Su and Go Along for the Ride,1
 AMD,Oct-27-20,09:03PM,S&P 500 Tumbles: Tech Stocks Gain but Everything Else Falls,0
@@ -367,10 +380,11 @@ AMD,Oct-27-20,09:03PM,"AMD to buy Xilinx in $35B deal, expanding chip business",
 AMD,Oct-27-20,09:03PM,"AMD Buys Xilinx for $35 Billion, Posts Better-Than-Expected Profit",1
 AMD,Oct-27-20,09:03PM,AMD CEO Lisa Su Says the Xilinx Deal Is Transformational,1
 WMT,Nov-11-20,08:13PM,ByteDance Desperate for Extension as TikTok Sale Deadline Hits,0
-WMT,Nov-11-20,08:13PM,"Bye, Tariff Man. Bidens India Play Must Be Apps",1
+WMT,Nov-11-20,08:13PM,"Bye, Tariff Man. Bidens India Play Must Be?Apps",1
 WMT,Nov-11-20,08:13PM,"General Motors, Walmart Collaborate to Test Driverless Deliveries",1
 WMT,Nov-11-20,08:13PM,Oak Street Health Is IBD Stock Of The Day; OSH Stock Nears Buy Point Amid Medicare Opportunity,1
-WMT,Nov-11-20,08:13PM,"Dow Jones Rises While Nasdaq Leads Market, Recovers Losses; This Retailer Breaks Out",1
+WMT,Nov-11-20,08:13PM,"Dow Jones Rises While Nasdaq Leads Market, Recovers Losses",1
+WMT,Nov-11-20,08:13PM,This Retailer Breaks Out,0
 WMT,Nov-11-20,08:13PM,Walmart (WMT) Ups Delivery Game Again With Cruise Alliance,1
 WMT,Nov-11-20,08:13PM,Walmart Partners With GM Cruise To Test Grocery Delivery Via All-Electric Self-Driving Cars,1
 WMT,Nov-11-20,08:13PM,Asias Richest Man Takes on Amazon in Indias Booming Online Market,1
@@ -568,3 +582,254 @@ DBX,Jul-20-20,05:35PM,Dropbox Shares Soar After Analyst Turns Positive on the St
 DBX,Jul-20-20,05:35PM,Dropbox stock rises after Jefferies upgrade,1
 DBX,Jul-08-20,03:02PM,Slack co-founder: We will be more aggressive with acquisitions,1
 DBX,Jul-08-20,03:02PM,Why Dropbox Stock Climbed 21.6% in the First Half of 2020,1
+GOOG,10-Aug-15,18:08:05,Why Google's restructuring plan makes sense  ,1
+GOOG,31-Jul-14,14:40:17,"Alibaba's Silicon Valley team competes with $GOOG, $FB, $AMZN for startups' attention:  ",1
+GOOG,18-Jul-14,13:07:42,Google's rally pulls S&;P 500 out of biggest loss in three months:  ,1
+GOOG,13-Apr-12,11:05:08,Google stock plan comes at investors' expense |  ,0
+GOOG,12-Apr-12,16:17:18,Google proposes measure effectively splitting shares 2 for 1 |  ,0
+GOOG,12-Apr-12,16:12:30,Google 1Q adj. EPS $10.08 vs estimated $9.64 |  ,1
+GOOG,12-Apr-12,12:25:11,Google investors seek Apple-like dividend as cash piles up |  ,1
+GOOG,23-Feb-12,14:05:06,Google to replace Motorola Mobility CEO |  ,1
+GOOG,23-Feb-12,13:14:58,BREAKING: Google said to pick Dennis Woodside as Motorola Mobility CEO |  ,1
+GOOG,14-Feb-12,9:13:47,Google wins U.S. nod to buy Motorola Mobility |  ,1
+GOOG,10-Feb-12,11:45:02,Google is testing wireless entertainment device |  ,1
+GOOG,01-Feb-12,17:36:46,Facebooks IPO shares may be five times as expensive as Google |  ,0
+GOOG,27-Jan-12,10:05:02,"Apple, Google face poaching ban lawsuit |  ",0
+GOOG,24-Jan-12,11:25:03,"Amazon Fire takes Android, leaves Google apps |  ",0
+GOOG,20-Jan-12,10:45:11,Googles price drop prompts Pages first miss |  ,0
+GOOG,19-Jan-12,16:28:27,Google sales fall short of estimates |  ,0
+GOOG,19-Jan-12,16:04:33,"Google 4Q Adj. EPS $9.50, Est. $10.50 |  ",0
+GOOG,19-Jan-12,10:05:07,Google protest of anti-piracy upends lobbying |  ,0
+GOOG,10-Jan-12,14:16:40,Google users to get more personalized results |  ,1
+GOOG,30-Dec-11,4:35:01,Google backing Israel entrepreneurs |  ,1
+GOOG,19-Dec-11,17:45:02,Google sued by BT over mobile patents |  ,0
+GOOG,15-Dec-11,13:15:16,"Google, Yahoo, Twitter oppose Online Piracy Act |  ",0
+GOOG,13-Dec-11,13:05:18,Hacking of 760 firms reflects global cyber war |  ,0
+GOOG,12-Dec-11,18:05:03,Google chairman assails anti-piracy bills |  ,0
+GOOG,06-Dec-11,13:55:02,Verizon Wireless blocks rival Google Wallet |  ,0
+GOOG,05-Dec-11,17:25:02,Apples claim of Android rip-off awaits ruling |  ,0
+GOOG,05-Dec-11,9:55:02,Apples claim against Android awaits ITC ruling |  ,0
+GOOG,02-Dec-11,18:25:02,Zynga may be biggest IPO since Google |  ,1
+GOOG,02-Dec-11,10:55:07,Googles AdMeld acquisition said to get Justice Department support |  ,1
+GOOG,01-Dec-11,21:05:03,Samsung sees chance to boost chip lead in cloud computing |  ,1
+GOOG,21-Nov-11,15:04:54,Google drops Chromebook price to challenge Apple |  ,1
+GOOG,15-Nov-11,22:16:34,Google music store chases Apples iTunes |  ,1
+GOOG,15-Nov-11,9:55:06,Googles Android tops 50% of smartphone sales |  ,1
+GOOG,14-Nov-11,19:35:04,Google is target of ShopCity antitrust complaint |  ,0
+GOOG,10-Nov-11,17:15:05,HTCs anti-Apple strategy wins in U.S. |  ,1
+GOOG,04-Nov-11,9:07:14,Freebie iPhone turning into one of Apple's biggest weapons |  ,1
+GOOG,03-Nov-11,11:45:05,"On eve of Groupon's IPO, Google launches first national daily deal |  ",1
+GOOG,29-Oct-11,20:35:05,YouTube adding original programming |  ,1
+GOOG,28-Oct-11,9:25:06,Samsung overtakes Apple in smartphone sales |  ,1
+GOOG,21-Oct-11,11:24:23,Android tablets gained on iPad in third quarter |  ,1
+GOOG,19-Oct-11,9:25:03,Android software woos app makers with shared platform |  ,1
+GOOG,19-Oct-11,8:45:03,Google turns to face detection to take on Apple |  ,1
+GOOG,19-Oct-11,2:35:04,Google Ice Cream Sandwich Android debuts |  ,1
+GOOG,16-Oct-11,13:05:02,IRS auditing how Google shifted profits to avoid taxes |  ,0
+GOOG,13-Oct-11,16:36:42,Google exceeds estimates on growth in search-based ads |  ,1
+GOOG,13-Oct-11,9:45:05,Google tax probe to focus on offshore units |  ,1
+GOOG,12-Oct-11,17:15:05,Akamai rises on report Google may buy it |  ,1
+GOOG,10-Oct-11,13:25:04,Microsoft phones to get more marketing dollars |  ,1
+GOOG,30-Sep-11,10:15:02,Google joins Apple in push for tax holiday |  ,0
+GOOG,21-Sep-11,11:25:02,U.S. probing higher Google ad rate for Microsoft |  ,0
+GOOG,15-Sep-11,7:20:03,"Google buys 1,023 IBM patents for defense of Android |  ",1
+GOOG,08-Sep-11,12:45:02,CHART: OpenTable tumbles on Zagat news |  ,0
+GOOG,08-Sep-11,9:15:07,Google hands HTC patents to use against Apple |  ,1
+GOOG,15-Jul-11,13:10:01,Google ($GOOG) options volatility bets double overnight |  ,1
+GOOG,02-Jun-11,17:53:44,Gmail password theft attempt: FBI and U.S. State Department working with Google to review |  ,0
+GOOG,02-Jun-11,9:20:05,"Google and antitrust concerns: Probe could take ""years"" |  ",0
+GOOG,14-Apr-11,18:55:39,"#Google Profit Misses Estimates on Hiring, Marketing Costs; Shares Decline  -  ",0
+GOOG,08-Apr-11,17:04:35,#Google CEO Page Is Said to Elevate Seven Managers to Top Posts in Shakeup  ,1
+GOOG,30-Mar-11,10:15:03,Exclusive: #Pittsburgh Revival Enticing #Google Endangered by $650 Million #Pension Hole -   ,1
+GOOG,30-Mar-11,10:00:07,Exclusive: #Google Likened to British Empire Tests Fate in #China With Mapping Service -   ,1
+GOOG,24-Mar-11,10:03:26,"Exclusive: #Google Said to Face Possible Antitrust Probes by #Ohio, #Wisconsin Officials  -   ",0
+GOOG,15-Mar-11,9:30:20,"Exclusive: #Google Is Said to Ready Test of Payment System in New York, San Francisco -   ",1
+GOOG,08-Mar-11,9:25:02,"Exclusive: Hacking of DuPont, J&J, GE Were Google-Type Attacks That Weren't Disclosed -   ",0
+GOOG,01-Mar-11,9:50:03,Exclusive: #Google Investing in Latin America After Region's Sales Rose 80% Last Year -   ,1
+GOOG,01-Mar-11,9:10:02,Exclusive: #Morgan Stanley Leak Shows Attack by China-Based Hackers Who Took On #Google -   ,0
+GOOG,24-Feb-11,11:35:02,Exclusive: Republican on U.S. FTC Backs Investigation of Internet Search Competition -    ,0
+GOOG,15-Feb-11,9:35:03,Exclusive: #Google's #YouTube Ad-Linked Video Views Climb to More Than 3 Billion a Week -  ,1
+GOOG,09-Feb-11,12:34:26,"Exclusive: $EBay to Unveil Expansion Plan to Help #PayPal Repel #Google, #Apple Threats -  ",1
+GOOG,01-Feb-11,15:23:58,#Google Says #Microsofts #Bing Engine Is Copying Its Internet Search Results -  ,0
+GOOG,06-Jan-11,10:40:02,Exclusive: #Facebook Valued at $50 Billion Looks More Like China's #Tencent Than #Google -   ,1
+GOOG,17-Dec-10,10:23:56,"Exclusive: #Google Drive for TV Dominance Meets Reality as #CBS, #Fox Block Top Programs  ",0
+GOOG,16-Dec-10,13:49:55,Exclusive: #Groupon Said to Seek New Funding After Rebuffing #Google's $6 Billion Offer  ,0
+GOOG,06-Dec-10,9:26:16,"#Groupon Aims to Emulate #Facebook, Not #Yahoo, After Walking Away From #Google Deal -  ",1
+GOOG,19-Nov-10,13:50:02,#Groupon Said to Weigh Sale to #Google Against Raising Funds for Coupon Site - ,0
+GOOG,15-Nov-10,9:39:20,"Exclusive: #Facebook Passes #EBay in Value, Becoming No. 3 U.S. Web Company -   ",1
+GOOG,21-Oct-10,9:11:29,Exclusive: #Google's 2.4% Tax Rate Shows How $60 Billion Is Lost to Loopholes -  ,0
+GOOG,13-Oct-10,9:48:55,#Google's Reicher Aims at Another Fledgling Industry: Wind Farms -  ,1
+GOOG,06-Oct-10,10:28:36,"Exclusive: Returns Up to 10% on Low-Income Housing Lure #Google, #Kroger -   ",1
+GOOG,05-Oct-10,11:30:17,"Google's Android Tops IPhone, BlackBerry Among New Smartphone Buyers, Nielsen Says -  ",1
+GOOG,06-Oct-20,16:56:27,"'Killer' acquisitions, exorbitant fees and 'oppressive' contracts in the name of profit: Congressional panel details abuses of market power by Apple, Amazon, Facebook and Alphabet's Google  ",0
+GOOG,28-Oct-19,16:16:17,"Alphabet third-quarter profit misses estimates, hit by aggressive spending by the Google unit on marketing and hardware development  ",0
+GOOG,30-Apr-19,23:50:00,Wall Street down as shares of Google-parent Alphabet tumble following revenue miss  ,0
+GOOG,30-Apr-19,20:30:00,Wall Street down as shares of Google-parent Alphabet tumble  ,0
+GOOG,30-Apr-19,19:00:00,Nasdaq retreats as Alphabet falls but Apple gains after hours  ,0
+GOOG,29-Apr-19,17:21:52,"- Alphabet missed revenue estimates while competitors like $FB and $AMZN beat targets in Q1 - Costs have surged faster than revenue for much of the past two years, concerning investors - $GOOG also faces increased scrutiny over privacy practices  ",0
+GOOG,04-Feb-19,16:53:16,"Alphabet beat Wall Street revenue and profit estimates, but it worried investors with higher spending on things like new data centers and heavy marketing over the holidays  ",1
+GOOG,26-Sep-18,16:11:06,"Tech giants, including Amazon, Alphabet and Apple, say they would back a federal privacy law, want Congress to preempt tough new rules in California  ",1
+GOOG,11-Apr-13,13:58:14,Google moves to end EU antitrust probe without fine  ,0
+GOOG,13-Mar-13,17:59:30,Google's Android chief Andy Rubin steps down  ,0
+GOOG,26-Feb-13,15:24:05,Google and Spain battle in Europe's highest court over data privacy  ,0
+GOOG,20-Feb-13,16:52:16,Analysts express concerns about Google's valuation  ,0
+GOOG,07-Feb-13,17:27:22,U.S. judge narrowed a patent lawsuit brought by Google's Motorola Mobility unit against Microsoft Corp  ,0
+GOOG,06-Feb-13,12:51:33,"Google to buy marketing services company for $125 million  ",1
+GOOG,09-Jan-13,12:20:22,Google drops key patent claims against Microsoft  ,0
+GOOG,03-Jan-13,13:14:47,"More: FTC and Google reach agreement in which Google will license standard patents on fair, reasonable and non-discriminatory terms. $GOOG",0
+GOOG,07-Dec-12,16:50:37,"Exclusive: Google to replace M&;A chief  ",0
+GOOG,05-Nov-12,14:35:48,"Google says Apple patent lawsuit dismissed  ",1
+GOOG,05-Nov-12,14:08:18,Google Inc. says Apple Inc. patent lawsuit dismissed; Google says remains interested in reaching an agreement with Apple. $GOOG $AAPL,1
+GOOG,18-Oct-12,13:21:20,Google says that financial printer RR Donnelley filed draft earnings statement without authorization. $GOOG,0
+GOOG,18-Oct-12,12:56:52,"Google jumps gun on results, revenue soft  ",0
+GOOG,18-Oct-12,12:54:41,"Google, Inc. shares halted news pending, last down 9 percent. $GOOG",0
+GOOG,18-Oct-12,12:43:05,Google shares drop eight percent after third quarter earnings announcement. $GOOG,0
+GOOG,18-Oct-12,12:42:27,Google currently down after jumping the gun on results. Quote:  ,0
+GOOG,18-Oct-12,12:40:32,Google: Google-owned sites generated revenues of $7.73 billion in Q3. $GOOG,1
+GOOG,18-Oct-12,12:40:01,Google third quarter adjusted EPS at $9.03 on revenue of $ 14.1 billion. $GOOG,1
+GOOG,15-Oct-12,11:22:17,EU data protection authorities have found legal problems with Google's privacy policy  ,0
+GOOG,15-Oct-12,10:24:37,"EU data protection authorities say Google should disclose how it processes personal data, amend its policy $GOOG",0
+GOOG,04-Oct-12,14:12:16,Google settles with publishers over digital books  ,0
+GOOG,04-Oct-12,10:20:45,"Google warns of more Motorola cuts, revises up third-quarter bill  ",0
+GOOG,25-Sep-12,2:28:05,Google exec: not yet offered new map to Apple  ,0
+GOOG,25-Sep-12,0:25:00,Google starts selling Nexus 7 in Japan for $250  ,1
+GOOG,26-Jul-12,14:13:55,Google unveils its Google Fiber broadband Internet service  ,1
+GOOG,20-Jul-12,11:18:35,"EU REGULATORS WANT GOOGLE TO MAKE ANTITRUST CONCESSIONS ON ALL PLATFORMS, INCLUDING TABLETS, PCS, MOBILE DEVICES $GOOG",0
+GOOG,19-Jul-12,18:32:09,"Googles bottom line is good, but not good enough  ",0
+GOOG,10-May-12,21:04:03,"FTC has reached out to Google, Twitter in an investigation into Facebook Inc's $1 billion acquisition Instagram  ",0
+GOOG,04-May-12,19:33:28,Judge urges more deliberations in #Android case between #Google and #Oracle Corp  ,0
+GOOG,12-Apr-12,16:32:53,Google announces stock dividend  ,1
+GOOG,21-Sep-11,12:05:36,Google spurns Oracle $2.2 billion Android damage claim  ,0
+GOOG,09-Sep-11,14:55:24,Google to Iran: Change your password  ,0
+GOOG,08-Sep-11,11:55:41,Google buys Zagat in local push  ,1
+GOOG,08-Sep-11,11:45:11,FLASH: Google says it has acquired Zagat $GOOG,1
+GOOG,06-Sep-11,15:51:35,Google's South Korean office raided by regulators: source  ,0
+GOOG,14-Jul-11,16:38:02,"Google profit, revenue grow in second quarter  ",0
+GOOG,01-Jun-11,16:37:55,"Google reveals Gmail hacking, likely from China  ",0
+GOOG,01-Jun-11,10:15:37,"""I screwed up"" Google's Eric Schmidt admits to failed partnership with Facebook  ",0
+GOOG,06-Dec-18,8:00:30,"Stocks making the biggest moves premarket: FB, GOOG, SIG, CVS, THO &; more  ",1
+GOOG,03-Jul-17,22:46:56,"Google, Yahoo sites display incorrect stock prices for $GOOG, $AMZN, $MSFT, others  ",0
+GOOG,30-Aug-16,15:14:24,"NEW: Google to take on Uber starting this fall in San Francisco area with ride sharing service that relies on Waze app, which $GOOG owns -DJ",1
+GOOG,21-Oct-14,19:30:25,"Google, Qualcomm and others just invested $542 million in this mystery firm:  ",1
+GOOG,18-Sep-14,5:00:26,Apple's Tim Cook takes a swipe at Google and Facebook:  ,0
+GOOG,04-Sep-14,12:47:00,Google to refund $19 million in kids in-app purchase case:  ,0
+GOOG,07-Aug-14,14:26:53,Spammers have rigged Googles search algorithm:  ,0
+GOOG,22-Jul-14,13:45:34,Google must face US lawsuit over consumer privacy:  ,0
+GOOG,15-Jul-14,16:08:42,BREAKING: Google says it has appointed Alan Mulally to its Board of Directors. $GOOG,1
+GOOG,11-Jul-14,4:01:16,"Prostitute in Google yacht overdose eyed in other death, police say:  ",0
+GOOG,02-Jul-14,12:20:09,Google has banned porn from its ad network:  ,1
+GOOG,01-Jul-14,16:04:44,BREAKING: Google buys Songza streaming music service for  undisclosed amount. $GOOG,1
+GOOG,30-Jun-14,0:00:29,Google's secretive updates leave sites scrambling:  ,0
+GOOG,25-Jun-14,13:28:46,Google announces Android TV:  ,1
+GOOG,25-Jun-14,12:46:49,Google unveils new unlocking features; Android users will be able to use voice or location to unlock devices:  ,1
+GOOG,10-Jun-14,13:44:01,ALERT: Google buys Skybox Imaging in $500 million deal. Â»  ,1
+GOOG,30-May-14,3:58:22,"After a bombshell EU ruling, Google enables you to be ""forgotten"" in search results:  ",1
+GOOG,28-May-14,4:01:11,Google's driverless car is good news for bad drivers:  ,1
+GOOG,29-Apr-14,1:01:01,Google's driverless car is city-ready:  ,1
+GOOG,16-Apr-14,16:03:52,EARNINGS ALERT: Google  Q1 EPS $6.27 ex-items vs. $6.41 Est.; Q1 Revs. $15.42B vs. $15.54B Est. ¢ $GOOG QUOTE:  ,0
+GOOG,14-Apr-14,14:08:48,BREAKING: Google buys drone-making company that Facebook had sought to purchase before.  ,1
+GOOG,31-Mar-14,10:52:41,Apples war on Samsung has Google in crossfire:  ,0
+GOOG,05-Mar-14,23:01:47,Google just dropped $50 million on a real estate site:  ,1
+GOOG,05-Mar-14,19:00:43,"Google just dropped $50,000,000 on a real estate website.  ",1
+GOOG,12-Feb-14,9:04:58,Why Google is tech's darlingnot Apple:  ,1
+GOOG,05-Feb-14,20:00:52,Google's YouTube has launched a crackdown on people manipulating the view counts on clips:  ,1
+GOOG,05-Feb-14,6:55:02,BREAKING: Google reaches tentative antitrust deal with EU:  ,1
+GOOG,30-Jan-14,16:03:42,EARNINGS ALERT: Google Q4 EPS $12.01 ex-items vs. $12.21 Est.; Q4 Revs. $16.86B vs. $16.75B Est. ¢ $GOOG QUOTE:  ,1
+GOOG,29-Jan-14,17:07:38,BREAKING: Google says it is selling Motorola Mobility unit to Lenovo for $2.91B.  ,1
+GOOG,29-Jan-14,11:14:09,Google close to escaping a possible $5 billion fine:  ,1
+GOOG,23-Jan-14,0:01:59,Feds pull Google Glass user from theater for suspected piracy:  ,0
+GOOG,17-Jan-14,22:01:01,Google's founders have won approval to build a private terminal at Mineta San Jose International Airport:  ,1
+GOOG,13-Jan-14,16:06:18,BREAKING: Google acquires Nest for $3.2B.  ,1
+GOOG,13-Dec-13,10:32:41,Google to begin charging advertisers only for ads that've actually been seen by web-users:  ,1
+GOOG,04-Dec-13,23:00:34,Google has quietly acquired seven technology companies in an effort to create a new generation of robots:  ,1
+GOOG,14-Nov-13,19:00:35,Authors lose to Google in suit over digital books:  ,0
+GOOG,13-Nov-13,18:25:03,Google and HP pull Chromebook on overheating issues:  ,0
+GOOG,31-Oct-13,14:09:02,Google launches new Nexus 5 smartphone:  ,1
+GOOG,23-Oct-13,18:15:05,Tesla plans to add apps and Google Chrome to dashboard:  ,1
+GOOG,18-Oct-13,10:05:45,Google tops $1000:  ,1
+GOOG,18-Oct-13,8:31:50,Google approaching $1000/share in pre-market after earnings blew past expectations:  ,1
+GOOG,17-Oct-13,16:04:44,EARNINGS ALERT: Google Q3 EPS $10.74 ex-items vs. $10.34 Est.; Q3 Revs. $14.89B vs. $14.79B Est. ¢ $GOOG QUOTE:  ,1
+GOOG,05-Oct-13,0:04:37,"Cisco, Google and SAP discussing bids for BlackBerry:  ",1
+GOOG,26-Sep-13,18:01:49,Google rolls out new 'Hummingbird' search algorithm:  ,1
+GOOG,10-Sep-13,2:01:45,"The NSA's spying targeted the private computer networks of Google, according to documents leaked, report says:  ",0
+GOOG,27-Aug-13,12:41:07,Nissan to build &; sell autonomous driven cars by 2020; Nissan not working w/ $GOOG on the project.  ,1
+GOOG,01-Aug-13,19:00:13,Google unveiled its 'Moto X' smartphone today. SEE:  ,1
+GOOG,01-Aug-13,15:08:35,Google unveils much-hyped Moto X smartphone:  ,1
+GOOG,24-Jul-13,0:00:45,Verizon Wireless has unveiled three Droid phones from Motorola:  ,1
+GOOG,19-Jul-13,8:41:20,Microsoft and Google disappoint after both companies missed earnings forecasts. Shares pay the price:  ,0
+GOOG,18-Jul-13,16:13:19,S&;P 500 Futures have fallen over 5 points on the back of weak earnings from Google &; Microsoft. $GOOG $MSFT $SPX,0
+GOOG,18-Jul-13,16:02:19,EARNINGS ALERT: Google Q2 EPS $9.56 ex-items vs. $10.78 Est.; Q2 Revs. $14.11B vs. $14.42B Est. $GOOG QUOTE:  ,0
+GOOG,15-Jul-13,20:01:46,Google's Eric Schmidt is all fired up about Motorola's launch of the Moto X smartphone:  ,1
+GOOG,15-Jul-13,9:45:06,"Google shares hit a new all-time high, up 30% this year. QUOTE:  ",1
+GOOG,29-Jun-13,14:02:51,"Good news, gamers! Google is developing a video game console based on its Android operating system:  ",1
+GOOG,11-Jun-13,11:38:28,BREAKING: Google announces that it has acquired Waze.  ,1
+GOOG,07-Jun-13,10:04:43,Banned! Google Glass prohibited at shareholder meeting:  ,0
+GOOG,06-Jun-13,18:05:25,"NSA &; FBI have tapped into servers of tech firms to gain intelligence data; firms include $GOOG, $YHOO, $MSFT, $AAPL, $FB. - @WashingtonPost",0
+GOOG,03-Jun-13,16:06:45,The first porn app has officially launched on Google Glass:  ,0
+GOOG,22-May-13,8:42:43,Xbox One takes on Apple and Google with Smart TV.  ,1
+GOOG,19-May-13,5:00:58,The run-up in Google's share price has led some investors to compare it to Apple:  ,1
+GOOG,15-May-13,16:01:42,"[Market Close] Dow, S&;P 500 close at fresh highs; $AAPL slumps 3%, $GOOG ends the day above $900. STORY:  ",1
+GOOG,15-May-13,8:15:02,"Google inks deal with Sony, Universal for streaming music service. Watch out @Spotify?  ",1
+GOOG,13-May-13,10:50:15,Google has hit a new all-time high of $882.47; the stock has set a new record for 7 straight sessions. $GOOG QUOTE:  ,1
+GOOG,07-May-13,14:26:23,"A 20% run has put $GOOG shares at an all-time high, and one analyst expects as much as 20% gain still to come:  ",1
+GOOG,06-May-13,10:43:20,Google hits an all-time high of $858.62. QUOTE:  ,1
+GOOG,29-Apr-13,11:30:46,"Google Now comes to iPhone, challenging Apple's Siri:  ",1
+GOOG,18-Apr-13,16:11:23,EARNINGS ALERT: Google Q1 EPS $11.58 vs. $10.66 Est.; Q1 Revs. $13.97B vs. $14.09B Est. $GOOG QUOTE:  ,1
+GOOG,17-Apr-13,9:17:54,"ALERT: Google experiencing partial service disruptions; problem impacting Gmail, Google Drive, Admin Control panel/API. $GOOG",0
+GOOG,06-Apr-13,14:02:28,Facebook's new Home application for Android devices may put the social giant at further odds with Google:  ,0
+GOOG,04-Apr-13,11:27:06,"As web search goes mobile, apps chip at Google's lead:  ",1
+GOOG,22-Mar-13,14:31:32,"Silicon Valley's rumor mill suggests that Google, too, has a smartwatch in the works:  ",1
+GOOG,21-Mar-13,9:40:00,YouTube joins the 1 billion club. STORY:  ,1
+GOOG,20-Mar-13,21:33:25,Google says YouTube has hit 1 billion monthly users in a post on the company's official blog. $GOOG,1
+GOOG,14-Mar-13,12:17:57,Head of Google's mapping &; commerce division is stepping down from the role; $GOOG to split its Maps/Geo and Commerce group into two units.,0
+GOOG,14-Mar-13,9:03:02,Google Reader is shutting its doors on July 1. Do you think $GOOG is making a mistake? STORY:  ,0
+GOOG,13-Mar-13,13:08:49,Google CEO Larry Page announces that Andy Rubin is moving to new role at Google; Sundar Pichai will now lead Android at $GOOG,1
+GOOG,06-Mar-13,5:30:58,"Google launching same-day delivery service to rival Amazon's Prime business, according to report:  ",1
+GOOG,06-Mar-13,2:01:21,"After hitting two all-time highs in as many days, shares of $GOOG appear headed toward $1,000, says Carlos Kirjner:  ",1
+GOOG,04-Mar-13,10:07:03,Google shares hit a new all-time high of $814.47. [QUOTE]  ,1
+GOOG,24-Feb-13,23:01:17,Google appears to be trying to muscle its way onto turf traditionally dominated by Apple:  ,1
+GOOG,19-Feb-13,16:06:49,"[Market Close] Dow, S&;P end at new 5-year highs, Nasdaq closes at 12-year high; $GOOG tops $800. MORE:  ",1
+GOOG,19-Feb-13,9:57:48,"Google hits $800 for first time, now trading at $802/share. [QUOTE]  ",1
+GOOG,08-Feb-13,4:01:14,Yahoo is counting on rival Google to help accelerate its revenue growth:  ,1
+GOOG,01-Feb-13,13:17:30,Google just hit an all-time high of $774. $GOOG QUOTE:  ,1
+GOOG,23-Jan-13,14:50:32,"""Gangnam Style"" logged more than $8M in revenue for YouTube. It ""actually is a business,"" says @optionmonster:  ",1
+GOOG,23-Jan-13,10:17:21,"Google is having its best day in 15 months, up as much as 6%. [QUOTE]  ",1
+GOOG,22-Jan-13,16:40:37,$GOOG up 4.5% in after-hours trading. Google reported Q4 earnings of $10.65/share excluding items vs. $10.42 est. READ:  ,1
+GOOG,22-Jan-13,16:05:53,"Google Q4 EPS $10.65 non-GAAP; Revs. $12.16B ex-TAC, including Motorola Home vs. $12.34B est. $GOOG QUOTE:  ",1
+GOOG,22-Jan-13,14:42:35,Did you know that Google shares are up 728% from August 2004 IPO price of $85/share? $GOOG reports after the bell:  ,1
+GOOG,15-Jan-13,13:19:31,Google shares rise as Facebook announces non-web search. $GOOG up 1%. [QUOTE]  ,1
+GOOG,03-Jan-13,13:17:41,FTC: Google ordered to stop using smartphone patents to exclude competitors.  ,0
+GOOG,03-Jan-13,12:02:26,FTC to make announcement concerning its investigation of Google at 1pET. [CHART]  ,0
+GOOG,10-Dec-12,16:26:03,Report says Google avoided $2 billion in international income taxes in 2011 by stashing money in Bermuda:  ,0
+GOOG,10-Dec-12,13:00:12,Google's Gmail briefly went down Monday &; its Chrome web browser repeatedly crashed for many users. MORE:  ,0
+GOOG,10-Dec-12,12:36:34,Google's Apps Status Dashboard has been updated to show that Google Mail is experiencing service disruption. #Gmail $GOOG,0
+GOOG,31-Oct-12,22:58:57,Google is going after Apple's Siri. DETAILS:  ,1
+GOOG,29-Oct-12,12:21:53,WSJ: Google unveils Nexus 10 $399 tablet. [QUOTE]  ,1
+GOOG,18-Oct-12,15:17:56,"Google CEO Larry Page:Revenue was up 45% year-on-year, and, at just 14 years old, we cleared our first $14 billion revenue quarter."" $GOOG",1
+GOOG,18-Oct-12,13:25:47,"Shares of RR Donnelley ($RRD), the company that filed $GOOG earnings early, down 4%. [QUOTE]  ",0
+GOOG,18-Oct-12,13:22:45,BREAKING: Google issues statement; blames RR Donnelly for filing draft 8K statement without authorization. $GOOG,0
+GOOG,18-Oct-12,12:46:58,Google's Motorola unit posts non-gaap $151M loss.  ,0
+GOOG,18-Oct-12,12:46:12,Google cost per click down 15% from a year ago.  ,0
+GOOG,18-Oct-12,12:43:42,Google Q3 Revenues $11.3B ex-tac vs. $11.86B est. [QUOTE]  ,0
+GOOG,18-Oct-12,12:42:33,Google Q3 EPS $9.03 vs. $10.65 Est. [QUOTE]  ,0
+GOOG,01-Oct-12,16:28:39,Stocks end the day mixed; Google hits an all-time high. [MARKET REPORT]  ,1
+GOOG,06-Sep-12,14:18:35,Google hits a fresh 5-year high. [QUOTE]  ,1
+GOOG,14-Aug-12,12:01:37,"This quarter Google outperforming Apple: $GOOG +16%, $AAPL +9% (via @HumOnTheMarkets)",1
+GOOG,09-Aug-12,11:08:04,"Google to pay $22.5M fine to settle FTC charges, accusing $GOOG of bypassing privacy settings in Apple's Safari browser.",0
+GOOG,05-May-12,15:28:23,Warren Buffett: Apple and Google Too Risky For Me  ,0
+GOOG,16-Apr-12,10:30:49,Tech stocks falling into negative territory led by Apple & Google.  ,0
+GOOG,12-Apr-12,16:27:20,"Google has traded 5.08M shares for the day, another million have changed hands since the close, over 2.3x its 10-day average. $GOOG",1
+GOOG,12-Apr-12,16:24:15,"Google Beats on Earnings, Announces New Class of Stock:  ",1
+GOOG,19-Sep-11,16:35:07,Google and Visa Sign Licensing Deal On Mobile Payments - $GOOG $V @Google,1
+GOOG,09-Sep-11,9:49:08,Apple Wins German Court Ruling on Samsung Tablets  ,1
+GOOG,14-Jul-11,17:00:00,Google CEO: Over 10M People Have Joined Google+ In Closed Trial $GOOG,1
+GOOG,16-Jun-11,15:20:59,Oracle Sues Google For 'Billions Of Dollars' In Patent Lawsuit   - $ORCL $GOOG,0
+GOOG,11-Jun-11,17:20:11,IMF Reports Cyberattack Led to ˜Very Major Breach  ,0
+GOOG,25-Jan-11,14:37:22,"Google Says It Will Hire More Than 6,000 Employees In 2011 $GOOG #Google #jobs #hiring",1
+GOOG,20-Jan-11,16:05:41,Google Says Larry Page To Be CEO - Eric Schmidt Will Assume Role of Executive Chairman  #Breaking $GOOG,1
+GOOG,03-Nov-10,16:35:53,Zuckerberg Unveils Facebook's Mobile Upgrades  ,1
+GOOG,03-Nov-10,10:41:35,Yoshikami: Tech Takeover Frenzy Goes On  ,1
+GOOG,03-Nov-10,8:18:22,Google Was in 'Significant Breach' of UK Data Law  ,1
+GOOG,02-Nov-10,10:34:19,Google-Backed Startup Takes Location Game Global  ,1
+GOOG,01-Nov-10,15:37:27,"A New Search Engine, Where Less Is More  ",1
+GOOG,15-Apr-10,17:05:16,Google Results Jump but Don't Beat 'Whisper Number'  $GOOG #earnings    ,1
