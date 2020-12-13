@@ -7,6 +7,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import LogisticRegression
 import matplotlib.pyplot as plt
 import tweet_scrapper
+from sklearn.utils import resample
 from sklearn.naive_bayes import GaussianNB
 import scrapping_finviz
 import warnings
@@ -14,6 +15,10 @@ import warnings
 
 def read_create_train_test(filename):
     df = pd.read_csv(filename, encoding="cp1252")
+    df_major = df[df['Sentiment'] == 1]
+    df_minor = df[df['Sentiment'] == 0]
+    df_upsized = resample(df_minor, replace=True, n_samples=551)
+    df = pd.concat([df_major, df_upsized])
     temp = df.drop(['Company', 'time', 'date'], axis=1)
     newslines = temp['headline']
     labels = temp['Sentiment']
@@ -49,7 +54,7 @@ def create_sentiment(filename, vectorized, classifier):
 
 def run():
     warnings.filterwarnings('ignore')
-    tickers = ["AMD", "MSFT", "LMND"]
+    # tickers = ["AMD", "MSFT", "LMND"]
     news_headline_csvfile = "news_headlines.csv"
     # scrapping_finviz.run(tickers, news_headline_csvfile)
     tweet_scrapper.run(["business", "reuters", "cnbc", "WSJmarkets","Benzinga"], ["AMD"])
