@@ -38,6 +38,11 @@
 
 <img src="images/lstm.png" width="600" />
 
+### 7. Evaluation with error calculation (RMSE, MAPE)
+
+ <img src="images/rmse2.png" width="400" />
+ 
+ <img src="images/mape2.png" width="400" />
 
 ## Technical background
 - KNN/Logistic regression for Sentiment Analysis on news headlines
