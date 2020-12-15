@@ -7,7 +7,7 @@
 
 ## Project Video
 
-[![a link](images/final_pro.gif)](https://www.youtube.com/watch?v=AM6U5cwQ5hc)
+[![](images/final_pro2.gif)](https://www.youtube.com/watch?v=k5T4Wh70k8E)
 
 ## Description
 - The goal of this project is to predict the specific price of a stock at any given point based on previous existing data
